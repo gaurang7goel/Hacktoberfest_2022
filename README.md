@@ -29,7 +29,7 @@
 
 ## 3. Create a pull request for the same.
 
-## 4. Wait for Pull Request to merge
+## 4. Wait for the Pull Request to merge.
 
 ## 5. If the contribution follows the rules and regulations of hackoctoberfest it will be approved.
 
