@@ -23,7 +23,7 @@
 ## Instructions-
     
 
-## 1. Pick up from the list of issues from the list of issues tagged hackoctoberfest in this repo.
+## 1. Pick up from the list of issues from the list of issues tagged hacktoberfest in this repo.
 
 ## 2. Fork the repo, create a branch and give your contribution. 
 
