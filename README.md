@@ -27,11 +27,9 @@
 
 ## 2. Fork the repo, create a branch and give your contribution. 
 
-## 3. Create a pull request for the same.
+## 3. Wait for the Pull Request to merge.
 
-## 4. Wait for the Pull Request to merge.
-
-## 5. If the contribution follows the rules and regulations of hackoctoberfest it will be approved.
+## 4. If the contribution follows the rules and regulations of hackoctoberfest it will be approved.
 
 ```py
 '''
