@@ -22,6 +22,7 @@
 
 ## Instructions-
     
+## 0. Follow me.
 
 ## 1. Pick up from the list of issues from the list of issues tagged hacktoberfest in this repo.
 
@@ -43,7 +44,8 @@ keep in mind that repo has hacktoberfest topic..
 '''
 ```
 
-## Follow Me
+## Follow me and get your PRs merged.
+
 ```py
 '''
 To get approval of the pull request much quick 🚀
