@@ -2,7 +2,6 @@
 //https://github.com/gaurang7goel
 
 
-
 #include <stdio.h>
 #include <conio.h>
 #include <limits.h>
